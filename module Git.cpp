@@ -2,5 +2,6 @@
 
 int main()
 {
-   std::cout << "Hello Git!!!" << std::endl;
+   int a = 2 + 2;
+   std::cout << "Hello Git!!! " << a  << std::endl;
 }
